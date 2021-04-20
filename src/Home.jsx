@@ -84,7 +84,10 @@ const Home = (props) => {
                         <Col lg={4} sm={12} xs={12} className="d-flex" style={{ justifyContent: "flex-end" }}>
                             <div className="right-header-div">
                                 <div className="counter-bar">
-
+                                    {/* <svg className="circularProgress">
+                                    <path className="circularProgress-trail" d="M 50,50 m 0,-46 a 46,46 0 1 1 0,92 a 46,46 0 1 1 0,-92" stroke-width="8" fill-opacity="0"></path>
+                                    <div className="circularProgress-text">15</div>
+                                    </svg> */}
                                 </div>
                                 <a className="telegram-btn" href="https://hodlinfo.com/connect/telegram" target="_blank" rel="noopener noreferrer"><i className="fa fa-telegram" aria-hidden="true"></i> Connect Telegram</a>
                                 <div className="switch-div">

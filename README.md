@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 ### `Live View`
 
-You can directly view the site on [https://](https://) .
+You can directly view the site on [https://quadb-task.netlify.app/](https://quadb-task.netlify.app/) .

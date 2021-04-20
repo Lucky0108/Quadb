@@ -101,6 +101,28 @@ a:hover {
     align-items: center;
 }
 
+/* .counter-bar {
+    height: 36px;
+    width: 36px;
+    margin: 10px;
+}
+
+.circularProgress {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.circularProgress-trail {
+    stroke: #D6D6D6;
+    stroke-linecap: round;
+}
+
+.circularProgress-text {
+    fill: #3DC6C1;
+    font-size: 20px;
+    text-anchor: middle;
+} */
+
 .telegram-btn {
     padding: 8px 20px;
     margin: 12px;
